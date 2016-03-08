@@ -1,3 +1,5 @@
 Congifugration
 
 The esp8266 is configured via Arduino IDE with the help of AT Commands as depicted in the screenshots.
+An FTDI Connector was used to communicate with the serial monitor of the arduino IDE. It is a USB to Serial Converter which is used to convert operation from 5V to 3.3V.
+
